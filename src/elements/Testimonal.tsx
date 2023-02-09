@@ -7,7 +7,7 @@ const Testimonial = () => {
   return (
     <section className="flex flex-col text-center items-center px-24 lg:py-28 py-14">
       <h1 className="text-2xl font-bold lg:mb-20 mb-14">CLIENT TESTIMONIALS</h1>
-      <section className="flex flex-col lg:justify-between w-full">
+      <section className="flex flex-col lg:flex-row lg:justify-between w-full">
       <TestimonialCard
         image={emilyAvatar}
         testimonial="We put our trust in unnyside and they delivered, making sure our needs were met and deadlines were always hit."
