@@ -15,7 +15,10 @@ const Hero = () => {
             grow fast. Engage your clients through compelling visuals that do
             most of the marketing for you.
           </p>
+          <section>
           <CalltoAction text="LEARN MORE" />
+          <figure className="-mt-2 bg-babyYellow h-2 w-42 rounded-full mb-10"></figure>
+          </section>
         </figcaption>
       </section>
       <section className="flex flex-col lg:flex-row  items-center justify-center lg:text-start text-center lg:justify-between">
@@ -29,7 +32,10 @@ const Hero = () => {
             photographers, videographers, and copywriters, we'll build and
             extend your brand in digital places.
           </p>
+          <section>
           <CalltoAction text="LEARN MORE" />
+          <figure className="-mt-2 bg-babyPink h-2 w-42 rounded-full mb-10"></figure>
+          </section>
         </figcaption>
       </section>
     </div>

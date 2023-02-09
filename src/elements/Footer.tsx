@@ -6,7 +6,7 @@ import pinterestImage from "../assets/desktop/icon-pinterest.svg";
 
 const Footer = () => {
   return (
-    <footer className="flex flex-col bg-Green h-80 items-center justify-center">
+    <footer className="flex flex-col bg-Green h-80 items-center justify-center cursor-pointer">
     <nav className="flex flex-col items-center justify-center">
         <h1 className="text-3xl pb-10 font-extrabold text-DarkGreen font-textFont">Sunnyside</h1>
         <ul className="font-textFont flex justify-between w-64 pb-12">

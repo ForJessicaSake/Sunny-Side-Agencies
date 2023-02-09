@@ -14,6 +14,8 @@ module.exports = {
         Heading:"#232f3b",
         Text:"#818195",
         White:"#fefffd",
+        babyPink:"#fedad2",
+        babyYellow:"#fef1bc",
       },
       height:{
         fruit:"30rem",
