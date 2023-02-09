@@ -1,7 +1,7 @@
-import bottleImage from "./bottles.jpg";
-import coneImage from "./cone.jpg";
-import sugarImage from "./sugar.jpg";
-import orangeImage from "./orange.jpg";
+import bottleImage from "../assets/desktop/bottles.jpg";
+import coneImage from "../assets/desktop/cone.jpg";
+import sugarImage from "../assets/desktop/sugar.jpg";
+import orangeImage from "../assets/desktop/orange.jpg";
 
 
 const Display = () => {

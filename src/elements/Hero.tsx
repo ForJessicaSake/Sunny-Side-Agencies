@@ -1,6 +1,6 @@
-import eggImage from "./egg.jpg";
-import cupImage from "./cup.jpg"
-import CalltoAction from "./CalltoAction";
+import eggImage from "../assets/desktop/egg.jpg";
+import cupImage from "../assets/desktop/cup.jpg"
+import CalltoAction from "../custom/CalltoAction";
 const Hero = () => {
   return (
     <div>
