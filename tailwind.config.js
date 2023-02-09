@@ -25,7 +25,7 @@ module.exports = {
         hero:"28rem",
       },
       fontFamily:{
-        Headingfront:["Libre Baskerville", "serif"],
+        Headingfront:["Righteous", "cursive"],
         textFont:["Work Sans", "serif"],
       },
     },

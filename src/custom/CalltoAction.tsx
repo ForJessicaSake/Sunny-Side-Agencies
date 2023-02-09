@@ -4,7 +4,7 @@ type Props = {
 
 const CalltoAction = ({ text }: Props) => {
   return (
-    <section className="text-lg font-extrabold">
+    <section className="text-lg font-extrabold cursor-pointer">
       <h3 className="font-Headingfront text-Heading">{text}</h3>
     </section>
   );

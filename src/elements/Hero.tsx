@@ -4,7 +4,7 @@ import CalltoAction from "../custom/CalltoAction";
 const Hero = () => {
   return (
     <div>
-      <section className="w-full flex flex-col lg:flex-row lg:flex-row-reverse items-center justify-center lg:text-start text-center lg:flex-row lg:justify-between border-2">
+      <section id="about" className="w-full flex flex-col lg:flex-row lg:flex-row-reverse items-center justify-center lg:text-start text-center lg:flex-row lg:justify-between border-2">
         <figure className=" lg:w-6/12 w-full ">
           <img src={eggImage} alt="egg" className="w-full" />
         </figure>
@@ -21,7 +21,7 @@ const Hero = () => {
           </section>
         </figcaption>
       </section>
-      <section className="flex flex-col lg:flex-row  items-center justify-center lg:text-start text-center lg:justify-between">
+      <section id="services" className="flex flex-col lg:flex-row  items-center justify-center lg:text-start text-center lg:justify-between">
       <figure className=" lg:w-6/12 w-full ">
           <img src={cupImage} alt="cup" className="w-full" />
         </figure>

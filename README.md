@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About
 
-## Available Scripts
+A responsive and user-friendly site built with the latest frontend technologies such as TypeScript, React, Jotai, and TailwindCSS. This project showcases my skills in using TypeScript for typechecking, Jotai for managing client states and tailwindCSS for the design. Check out the live demo at
 
 In the project directory, you can run:
 
