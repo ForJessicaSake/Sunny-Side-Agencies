@@ -6,7 +6,7 @@ text:string;
 
 const Card = ({image, heading, text}:Props)=>{
     return(
-        <section className="relative lg:w-6/12 w-full flex justify-start flex-col items-center text-center">
+        <section className="relative lg:w-6/12 w-full flex justify-start flex-col items-center text-center text-DarkGreen">
           <figure className="w-full">
           <img src={image} alt="fruit" className="lg:h-full md:h-full h-96 w-full"/>
         </figure>

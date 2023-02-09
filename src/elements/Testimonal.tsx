@@ -6,7 +6,7 @@ import thomasAvatar from "../assets/desktop/image-thomas.jpg";
 const Testimonial = () => {
   return (
     <section className="flex flex-col text-center items-center px-24 lg:py-28 py-14">
-      <h1 className="text-Text tracking-wider font-Headingfront lg:text-xl text-lg w-96 font-bold lg:mb-20 mb-14">CLIENT TESTIMONIALS</h1>
+      <h1 className="text-Text tracking-wider font-Headingfront lg:text-2xl text-lg w-96 font-bold lg:mb-20 mb-14">CLIENT TESTIMONIALS</h1>
       <section className="flex flex-col lg:flex-row lg:justify-between w-full">
       <TestimonialCard
         image={emilyAvatar}
