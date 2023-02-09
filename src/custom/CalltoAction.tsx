@@ -5,7 +5,7 @@ type Props = {
 const CalltoAction = ({ text }: Props) => {
   return (
     <section className="pb-7 text-xl font-bold">
-      <h3>{text}</h3>
+      <h3 className="text-Heading">{text}</h3>
     </section>
   );
 };
