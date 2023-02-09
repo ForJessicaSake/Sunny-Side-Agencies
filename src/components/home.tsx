@@ -6,7 +6,7 @@ import Testimonial from "../elements/Testimonal";
 
 const Home: React.FC = () => {
   return (
-    <section className="">
+    <section className="overflow-x-hidden">
       <Hero />
       <Fruit/>
       <Testimonial/>

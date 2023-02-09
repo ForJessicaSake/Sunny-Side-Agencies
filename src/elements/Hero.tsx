@@ -5,8 +5,8 @@ const Hero = () => {
   return (
     <div>
       <section className="w-full flex flex-col lg:flex-row lg:flex-row-reverse items-center justify-center lg:text-start text-center lg:flex-row lg:justify-between border-2">
-        <figure className=" lg:w-6/12 w-12/12 ">
-          <img src={eggImage} alt="egg" className="w-12/12 " />
+        <figure className=" lg:w-6/12 w-full ">
+          <img src={eggImage} alt="egg" className="w-full" />
         </figure>
         <figcaption className=" w-6/12 flex flex-col lg:pl-16 lg:justify-start lg:items-start justify-center items-center">
           <h1 className="text-Heading pt-14 text-4xl lg:w-80 leading-snug w-80 font-bold pb-7">Transform your brand</h1>
@@ -19,8 +19,8 @@ const Hero = () => {
         </figcaption>
       </section>
       <section className="flex flex-col lg:flex-row  items-center justify-center lg:text-start text-center lg:justify-between">
-      <figure className=" lg:w-6/12 w-12/12 ">
-          <img src={cupImage} alt="cup" className="w-12/12" />
+      <figure className=" lg:w-6/12 w-full ">
+          <img src={cupImage} alt="cup" className="w-full" />
         </figure>
         <figcaption className=" w-6/12 flex flex-col lg:pl-16 lg:justify-start lg:items-start justify-center items-center">
           <h1 className="text-Heading pt-14 text-4xl lg:w-96 w-80 leading-snug font-bold pb-7">Stand out to the right audience</h1>

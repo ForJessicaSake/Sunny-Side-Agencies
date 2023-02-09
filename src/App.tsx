@@ -3,7 +3,7 @@ import Home from './components/home';
 
 const App:React.FC=()=> {
   return (
-    <main>
+    <main className='overflow-x-hidden'>
       <Home/>
     </main>
     
