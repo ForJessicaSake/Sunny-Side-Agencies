@@ -11,6 +11,12 @@ module.exports = {
         Peach:"#fd7564",
         Green:"#7dc8b8",
       },
+      height:{
+        fruit:"30rem",
+      },
+      width:{
+        fruit:"27rem",
+      },
     },
   },
   plugins: [],
