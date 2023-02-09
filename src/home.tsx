@@ -1,9 +1,9 @@
-import Display from "../elements/Display";
-import Footer from "../elements/Footer";
-import Fruit from "../elements/Fruit";
-import Header from "../elements/Header";
-import Hero from "../elements/Hero";
-import Testimonial from "../elements/Testimonal";
+import Display from "./Display";
+import Footer from "./Footer";
+import Fruit from "./Fruit";
+import Header from "./Header";
+import Hero from "./Hero";
+import Testimonial from "./Testimonal";
 import Navbar from "./Navbar";
 
 const Home: React.FC = () => {

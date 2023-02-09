@@ -1,6 +1,6 @@
-import orangeImage from "../assets/desktop/citrus.jpg";
-import cherryImage from "../assets/desktop/cherry.jpg";
-import Card from "../custom/Card";
+import orangeImage from "./citrus.jpg";
+import cherryImage from "./cherry.jpg";
+import Card from "./Card";
 const Fruit = () => {
   return (
     <section className=" flex lg:flex-row flex-col">

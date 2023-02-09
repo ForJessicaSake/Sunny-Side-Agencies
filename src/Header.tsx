@@ -1,5 +1,5 @@
-import roundedCitrus from "../assets/desktop/roundcitrus.jpg";
-import arrowImage from "../assets/desktop/icon-arrow-down.svg"
+import roundedCitrus from "./roundcitrus.jpg";
+import arrowImage from "./icon-arrow-down.svg"
 const Header = () => {
   return (
     <section className="relative flex flex-col justify-center items-center bg-Blue">

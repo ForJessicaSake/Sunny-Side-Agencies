@@ -1,7 +1,7 @@
-import TestimonialCard from "../custom/TestimonialCard";
-import emilyAvatar from "../assets/desktop/image-emily.jpg";
-import jennieAvatar from "../assets/desktop/image-jennie.jpg";
-import thomasAvatar from "../assets/desktop/image-thomas.jpg";
+import TestimonialCard from "./TestimonialCard";
+import emilyAvatar from "./image-emily.jpg";
+import jennieAvatar from "./image-jennie.jpg";
+import thomasAvatar from "./image-thomas.jpg";
 
 const Testimonial = () => {
   return (
