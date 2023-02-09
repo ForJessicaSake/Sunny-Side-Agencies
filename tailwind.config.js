@@ -13,6 +13,7 @@ module.exports = {
         DarkGreen: "#2c7466",        
         Heading:"#232f3b",
         Text:"#818195",
+        White:"#fefffd",
       },
       height:{
         fruit:"30rem",
