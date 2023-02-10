@@ -5,7 +5,7 @@ import thomasAvatar from "../assets/desktop/image-thomas.jpg";
 
 const Testimonial: React.FC = () => {
   return (
-    <section className="flex flex-col text-center items-center px-24 lg:py-28 py-14">
+    <section className="flex flex-col text-center items-center xl:px-24 lg:px-10 px-24 lg:py-28 py-14">
       <h1 className="text-Text tracking-wider font-Headingfront lg:text-2xl text-lg w-96 font-bold lg:mb-20 mb-14">
         CLIENT TESTIMONIALS
       </h1>
