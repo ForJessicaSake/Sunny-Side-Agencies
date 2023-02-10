@@ -14,7 +14,7 @@ const Card = ({ image, heading, text }: Props) => {
           className="lg:h-full md:h-full h-96 w-full"
         />
       </figure>
-      <figcaption className="absolute top-52 md:top-96 lg:top-80 md-pt-10 z-50 flex lg:text-center flex-col lg:w-9/12 md:w-7/12 w-12/12 px-8">
+      <figcaption className="absolute top-52 md:top-96 lg:top-56 xl:top-96 z-50 flex lg:text-center flex-col xl:w-7/12 lg:w-11/12 md:w-7/12 w-12/12 px-8">
         <h1 className="font-Headingfront text-Heading lg:text-3xl text-2xl font-bold lg:pb-6 pb-2 pt-2">
           {heading}
         </h1>
