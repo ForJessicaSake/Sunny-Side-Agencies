@@ -8,7 +8,7 @@ import Navbar from "./Navbar";
 
 const Home: React.FC = () => {
   return (
-    <section className="overflow-x-hidden">
+    <section className="overflow-x-hidden 2xl:container 2xl:mx-auto">
       <Navbar />
       <Header />
       <Hero />
